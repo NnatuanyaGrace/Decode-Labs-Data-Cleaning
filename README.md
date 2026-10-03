@@ -4,7 +4,7 @@
 
 This project was completed as part of my data analytics internship training at **Decode Labs**.
 
-The focus of this project was to prepare an e-commerce dataset for analysis by checking data quality, identifying potential issues, validating important fields, and making appropriate cleaning decisions.
+The focus of this project was to prepare a dataset for analysis by checking data quality, identifying potential issues, validating important fields, and making appropriate cleaning decisions.
 
 ## Dataset
 
